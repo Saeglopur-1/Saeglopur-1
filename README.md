@@ -2,7 +2,7 @@ AI Engineer | Automotive Systems Expert | Healthcare Innovator
 
 About me:
 
-1. Focus on end-to-end ML systems for time-series forecasting, medical diagnostics, and NLP
+1. Focus on end-to-end ML systems for RL, time-series forecasting, medical diagnostics, and NLP
 2. Lead full-cycle technical projects from architecture design to production deployment
 3. Bridge engineering rigor with clinical/automotive applications
 
